@@ -30,7 +30,7 @@ func TestInfo(t *testing.T) {
 			"h": "hello",
 			"w": "world",
 		},
-		Slice: []string{"hello log1; 你好，日志; Bonjour journal; Hallo Log; ハローログ"},
+		Slice: []string{"hello log; 你好，日志; Bonjour journal; Hallo Log; ハローログ"},
 	}
 
 	ul.Info(logStruct)
