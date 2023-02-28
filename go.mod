@@ -1,3 +1,3 @@
-module github.com2/bhjdev/ulog
+module github.com/bhjdev/ulog
 
 go 1.19
